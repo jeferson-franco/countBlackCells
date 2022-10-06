@@ -1,0 +1,20 @@
+{
+    "name": "countblackcells",
+    "version": "1.0.0",
+    "description": "Imagine a white rectangular grid of `n` rows and `m` columns divided into two parts by a diagonal line running from the upper left to the lower right corner. Now let's paint the grid in two colors according to the following rules:",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/countBlackCells.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/countBlackCells/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/countBlackCells#readme"
+}
